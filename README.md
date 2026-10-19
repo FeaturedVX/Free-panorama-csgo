@@ -26,8 +26,8 @@ A regular `code.pbin` is a **packed archive**: the entire interface (`panorama/`
 
 ## 📁 Structure
 csgo/
-└── panorama/
-├── code.pbin ← connector (contains no files inside)
-├── layout/ ← interface files live alongside
-├── styles/
-├── scripts/
+- └── panorama/
+- ├── code.pbin ← connector (contains no files inside)
+- ├── layout/ ← interface files live alongside
+- ├── styles/
+- ├── scripts/
